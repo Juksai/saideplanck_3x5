@@ -15,3 +15,11 @@ repeat the same procedure if you want to flash firmware for right side
 right side's bootloader key is at left upper corner
 
 <img width="411" height="307" alt="图片" src="https://github.com/user-attachments/assets/9d20446c-5b59-4394-8d28-9070f0e1530c" />
+
+
+the keyboard needs battery to be connected to function normally, press the switch to corresponding position
+#left
+<img width="990" height="799" alt="图片" src="https://github.com/user-attachments/assets/31313f63-710c-47e2-a5f3-6c7947d335a7" />
+
+#right
+<img width="1017" height="666" alt="图片" src="https://github.com/user-attachments/assets/9fea52bb-f39d-4d0b-a818-fc530d1e52dc" />
