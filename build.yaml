@@ -2,4 +2,4 @@
 include:
   - board: planck_left
   - board: planck_right
-
+uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@v0.2
